@@ -1,0 +1,13 @@
+ul li {
+	background-color: aquamarine;
+	text-align: center;
+	font-weight: 900;
+	color: whitesmoke !important;
+}
+.text-center {
+	font-size: 22px;
+}
+p {
+	background-color: lightgrey;
+	height: 1000px;
+}
